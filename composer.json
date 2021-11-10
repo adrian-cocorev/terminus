@@ -19,7 +19,7 @@
     "symfony/console": "^3.3",
     "symfony/finder": "~2.7|^3.2",
     "symfony/process": "~2.7|^3.2",
-    "symfony/yaml": "4.4.25"
+    "symfony/yaml": "^4"
   },
   "autoload": {
     "psr-4": {
